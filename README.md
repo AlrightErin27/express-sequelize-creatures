@@ -32,6 +32,8 @@ For this lab, you're going to add a prehistoric creatures section to the `dinos`
 
 **Hint 2 :** `bulkCreate()` works great with an array of data
 
+Make sure that when you're finished, you can see the new prehistoric creatures inside of your `psql` database!
+
 ## 3. Create the following routes:
 
 | VERB | URL | Action (CRUD) | Description |
