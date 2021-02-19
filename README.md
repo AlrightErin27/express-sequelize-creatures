@@ -26,7 +26,7 @@ For this lab, you're going to add a prehistoric creatures section to the `dinos`
 ```
 
 
-## 2. Update the dbTest.js file to create dinos based off `prehistoric_creatures.json`
+## 2. Update the dbTest.js file to create `creatures` based off `prehistoric_creatures.json`
 
 **Hint 1:** You can `require()` any file, including .json files
 
