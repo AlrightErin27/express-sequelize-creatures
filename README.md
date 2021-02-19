@@ -40,7 +40,6 @@ Make sure that when you're finished, you can see the new prehistoric creatures i
 |------|-----|---------------|-------------|
 | GET | /creatures | Index (Read) | displays all prehistoric creatures |
 | GET | /creatures/1 | Show (Read) | displays the type and photo of a particular prehistoric creature (id = 1) |
-| GET | /creatures/new | New (Read) | shows a form for adding a new prehistoric creature |
 | POST | /creatures | Create | creates an prehistoric creature with the POST payload data |
 
 
