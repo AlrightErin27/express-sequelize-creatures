@@ -44,10 +44,12 @@ Make sure that when you're finished, you can see the new prehistoric creatures i
 
 
 # Bonus!
-## 4. Reorganize your routes into controllers
+## 4. Add the remaining two CRUD routes, Update and Delete
+
+## 5. Reorganize your routes into controllers
 (one controller for dinosaurs and one controller for prehistoric creatures)
 
 **Hint!:** Look up `express.Router` and put your `creaturesController.js` in a `controllers` folder
 
-## 5. Add the remaining two CRUD routes, Update and Delete
+
 
